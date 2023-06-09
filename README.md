@@ -3,7 +3,7 @@
 This is the repo for the final project of the course Intro. to Artificial Intelligence.
 
 ```bash
-git clone https://github.com/xxun10224/Classical_Chinese_Punctuation/
+git clone https://github.com/xxun10224/Classical_Chinese_Punctuation.git
 ```
 
 ## Model
